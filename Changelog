@@ -22,3 +22,8 @@ App version - 1.5.4
 -bug fix with inapp update
 App version - 1.5.5
 - Removed some unused screens to reduce memory
+App version - 1.5.6
+- Minimal required android is now 5.0
+App version - 1.5.7
+- Removed title bar from loseScreens
+- Removed some more screens
