@@ -20,3 +20,5 @@ App version - 1.5.3
 -Updated in-app update
 App version - 1.5.4
 -bug fix with inapp update
+App version - 1.5.5
+- Removed some unused screens to reduce memory
