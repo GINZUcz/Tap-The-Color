@@ -51,3 +51,6 @@ App version - 1.5.16
 App version - 1.5.17
 - Bug fixing GPG
 - added Timed leaderboard
+App version - 1.5.18
+- Finally bug with Google Play Games fixed
+- Checking if you are signed in when you start Settings
