@@ -54,3 +54,6 @@ App version - 1.5.17
 App version - 1.5.18
 - Finally bug with Google Play Games fixed
 - Checking if you are signed in when you start Settings
+App version - 1.5.19
+- added more achievements
+- bug fix with Sign in button in Settings (bigger than others)
